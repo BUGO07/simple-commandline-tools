@@ -15,7 +15,7 @@ A list of simple but sometimes useful commandline tools, written in rust.
 
 You can download the executable from the releases page or build it yourself. To run the executable you can open a terminal window in the directory of the executable and run
 ```
-./simple-commandline-tools
+./simple-commandline-tools <command> <args>
 ```
 I like to rename the file to "sct" and add it to path, that way its easy to run anytime I open the terminal.
 ## Building
