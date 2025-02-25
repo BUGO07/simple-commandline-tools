@@ -17,7 +17,7 @@ You can download the executable from the releases page or build it yourself. To 
 ```
 ./simple-commandline-tools
 ```
-I like to add rename the file to "sct" and add it to path, that way its easy to run anytime I open the terminal.
+I like to rename the file to "sct" and add it to path, that way its easy to run anytime I open the terminal.
 ## Building
 
 To build this project on your own you need to have `rust` and `git` installed locally
